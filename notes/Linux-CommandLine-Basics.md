@@ -1,36 +1,36 @@
 # COMMAND LINE BASICS
 
 ## DIRECTORIES
-/ = root directory
-~ = home directory
-. = current directory
-.. = parent directory
+1. / = root directory
+2. ~ = home directory
+3. . = current directory
+4. .. = parent directory
 
 ## CORE NAVIGATION COMMANDS
-pwd = shows where you are
-cd = moves between directories
-ls = list files/folders
-ls -a = lists hidden folders too
+1. pwd = shows where you are
+2. cd = moves between directories
+3. ls = list files/folders
+4. ls -a = lists hidden folders too
 
 ## FILE OPERATIONS
-touch = creates an empty file
-cat = prints file content
-less = views a file page by page
-mkdir = creates a folder
-cp = copy
-mv = move or rename
-rm = delete
+1. touch = creates an empty file
+2. cat = prints file content
+3. less = views a file page by page
+4. mkdir = creates a folder
+5. cp = copy
+6. mv = move or rename
+7. rm = delete
 
 ## OUTPUT BEHAVIOR
-> = overwrite/save output into a file
->> = append/add output to a file
-| = send output from the left command into the right command
+1. > = overwrite/save output into a file
+2. >> = append/add output to a file
+3. | = send output from the left command into the right command
 
 ## WILDCARDS
-? = matches exactly one character
-* = matches zero or more characters
+1. ? = matches exactly one character
+2. * = matches zero or more characters
 
 ## EXTRAS
-sort = sort content
-uniq = remove adjacent duplicates (does not edit original file)
-wc = word count, counts content on file
+1. sort = sort content
+2. uniq = remove adjacent duplicates (does not edit original file)
+3. wc = word count, counts content on file
