@@ -22,8 +22,8 @@
 7. rm = delete
 
 ## OUTPUT BEHAVIOR
-1. > = overwrite/save output into a file
-2. >> = append/add output to a file
+1. ">" = overwrite/save output into a file
+2. ">>" = append/add output to a file
 3. | = send output from the left command into the right command
 
 ## WILDCARDS
