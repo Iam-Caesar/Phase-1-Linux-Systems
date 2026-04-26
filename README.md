@@ -1,8 +1,8 @@
-#PHASE 1 - LINUX SYSTEMS
+# PHASE 1 - LINUX SYSTEMS
 
 The goal of this phase is to understand Linux systems fully using Ubuntu 24.04.4 as the primary learning OS.
 
-##TOPICS TO LEARN:
+## TOPICS TO LEARN:
 1. Linux Filesystem & Layout
 2. FIles, Ownership & Permissions
 3. Processes & Job Control
@@ -11,7 +11,7 @@ The goal of this phase is to understand Linux systems fully using Ubuntu 24.04.4
 6. Logs & Diagnostics
 7. Disk, Memory & Performance Basics
 
-##BY THE END OF THIS PHASE:
+## BY THE END OF THIS PHASE:
 1. Explain what each major Linux directory is for
 2. Fix permission errors correctly
 3. Identify and stop runaway processes
